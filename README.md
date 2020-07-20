@@ -1,3 +1,5 @@
+[Moved here](https://github.com/kaaboaye/kaaboaye/blob/master/publications.md)
+
 # List of my publications
 Mieszko Wawrzyniak
 
